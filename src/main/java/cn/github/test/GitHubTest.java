@@ -25,4 +25,9 @@ public class GitHubTest {
     public void test3(){
         System.out.println("GitHub进行第三次测试，测试更新");
     }
+
+    @Test
+    public void test4(){
+        System.out.println("GitHub进行第4次测试，测试更新");
+    }
 }
