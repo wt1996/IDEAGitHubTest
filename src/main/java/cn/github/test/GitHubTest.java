@@ -20,4 +20,9 @@ public class GitHubTest {
     public void test2(){
         System.out.println("GitHub进行第二次测试上传");
     }
+
+    @Test
+    public void test3(){
+        System.out.println("GitHub进行第三次测试，测试更新");
+    }
 }
