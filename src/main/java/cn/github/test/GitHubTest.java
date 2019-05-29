@@ -15,4 +15,9 @@ public class GitHubTest {
     public void test1(){
         System.out.println("GitHub进行第一次测试上传");
     }
+
+    @Test
+    public void test2(){
+        System.out.println("GitHub进行第二次测试上传");
+    }
 }
